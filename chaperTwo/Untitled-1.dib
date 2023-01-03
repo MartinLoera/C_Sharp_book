@@ -1,0 +1,58 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":null,"items":[{"name":"csharp","languageName":"C#","aliases":["c#","cs"]},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"html","languageName":"HTML"},{"name":"sql","languageName":"SQL"},{"name":"kql","languageName":"KQL"},{"name":"mermaid","languageName":"Mermaid"},{"name":"httpRequest","languageName":"http"},{"name":"value"}]}}
+
+#!csharp
+
+//Numbers in C#
+
+uint numeroUno = 1;
+int numeroDos = 2;
+float realNumber = 2.3F;
+double anotherRealNumber = 2.3;
+
+#!markdown
+
+For example, you could write the value for 1 million in decimal notation, that is, Base 10, as
+1_000_000.
+
+To use binary notation, that is, Base 2, using only 1s and 0s, start the number literal with 0b. To
+use hexadecimal notation, that is, Base 16, using 0 to 9 and A to F, start the number literal with 0x
+
+#!csharp
+
+int decimalNotation = 2_000_000;
+int binaryNotation = 0b_0001_1110_1000_0100_1000_0000;
+int hexadecimalNotation = 0x_001E8480;
+
+Console.WriteLine($"{decimalNotation == binaryNotation}");
+Console.WriteLine(
+$"{decimalNotation == hexadecimalNotation}");
+
+#!csharp
+
+Console.WriteLine($"int uses {sizeof(int)} bytes and can store numbers in the range {int.MinValue:N0} to {int.MaxValue:N0}.");
+Console.WriteLine($"double uses {sizeof(double)} bytes and can store numbers in the range {double.MinValue:N0} to {double.MaxValue:N0}.");
+Console.WriteLine($"decimal uses {sizeof(decimal)} bytes and can store numbers in the range {decimal.MinValue:N0} to {decimal.MaxValue:N0}.");
+
+#!csharp
+
+Console.WriteLine("Using doubles");
+double a = 0.1;
+double b = 0.2;
+
+if(a + b == 0.3) Console.WriteLine($"{a} + {b} equals {0.3}");
+else Console.WriteLine($"{a} + {b} does NOT equal {0.3}");
+
+#!csharp
+
+Console.WriteLine("Using doubles");
+decimal a = 0.1M;
+decimal b = 0.2M;
+
+if(a + b == 0.3M) Console.WriteLine($"{a} + {b} equals {0.3}");
+else Console.WriteLine($"{a} + {b} does NOT equal {0.3}");
+
+#!markdown
+
+Me quede en la pagina 73 del pdf de c#
