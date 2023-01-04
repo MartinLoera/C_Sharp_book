@@ -1,0 +1,15 @@
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/bin/Debug/net7.0/Formatting
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/bin/Debug/net7.0/Formatting.deps.json
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/bin/Debug/net7.0/Formatting.runtimeconfig.json
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/bin/Debug/net7.0/Formatting.dll
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/bin/Debug/net7.0/Formatting.pdb
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.csproj.AssemblyReference.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfoInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfo.cs
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.dll
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/refint/Formatting.dll
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.pdb
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/Formatting.genruntimeconfig.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/Formatting/obj/Debug/net7.0/ref/Formatting.dll

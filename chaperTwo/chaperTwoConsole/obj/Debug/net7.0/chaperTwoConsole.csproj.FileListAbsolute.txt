@@ -1,0 +1,15 @@
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/bin/Debug/net7.0/chaperTwoConsole
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/bin/Debug/net7.0/chaperTwoConsole.deps.json
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/bin/Debug/net7.0/chaperTwoConsole.runtimeconfig.json
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/bin/Debug/net7.0/chaperTwoConsole.dll
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/bin/Debug/net7.0/chaperTwoConsole.pdb
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.csproj.AssemblyReference.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.AssemblyInfoInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.AssemblyInfo.cs
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.dll
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/refint/chaperTwoConsole.dll
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.pdb
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/chaperTwoConsole.genruntimeconfig.cache
+/Users/usuario/Documents/trash/c_sharp/chaperTwo/chaperTwoConsole/obj/Debug/net7.0/ref/chaperTwoConsole.dll
