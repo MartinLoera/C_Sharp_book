@@ -1,0 +1,15 @@
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/bin/Debug/net7.0/PatternMatching
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/bin/Debug/net7.0/PatternMatching.deps.json
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/bin/Debug/net7.0/PatternMatching.runtimeconfig.json
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/bin/Debug/net7.0/PatternMatching.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/bin/Debug/net7.0/PatternMatching.pdb
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.csproj.AssemblyReference.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.AssemblyInfoInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.AssemblyInfo.cs
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/refint/PatternMatching.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.pdb
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/PatternMatching.genruntimeconfig.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/PatternMatching/obj/Debug/net7.0/ref/PatternMatching.dll

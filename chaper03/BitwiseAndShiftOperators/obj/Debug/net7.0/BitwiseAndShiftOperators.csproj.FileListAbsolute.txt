@@ -1,0 +1,15 @@
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.deps.json
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.pdb
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/refint/BitwiseAndShiftOperators.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.pdb
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.genruntimeconfig.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/BitwiseAndShiftOperators/obj/Debug/net7.0/ref/BitwiseAndShiftOperators.dll

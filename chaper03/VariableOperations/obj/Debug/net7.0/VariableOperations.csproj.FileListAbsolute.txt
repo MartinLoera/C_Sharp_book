@@ -1,0 +1,15 @@
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/bin/Debug/net7.0/VariableOperations
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/bin/Debug/net7.0/VariableOperations.deps.json
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/bin/Debug/net7.0/VariableOperations.runtimeconfig.json
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/bin/Debug/net7.0/VariableOperations.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/bin/Debug/net7.0/VariableOperations.pdb
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.csproj.AssemblyReference.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.AssemblyInfoInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.AssemblyInfo.cs
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/refint/VariableOperations.dll
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.pdb
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/VariableOperations.genruntimeconfig.cache
+/Users/usuario/Documents/trash/c_sharp/chaper03/VariableOperations/obj/Debug/net7.0/ref/VariableOperations.dll
